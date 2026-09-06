@@ -1,35 +1,35 @@
-# 👋 Hi, I'm Mercy Akintola
+# Hi, I'm Mercy Akintola
 
-### 🌍 Geospatial Developer | Earth Observation | GeoAI | Remote Sensing
+### Geospatial Developer | Earth Observation | GeoAI | Remote Sensing
 
 **I build geospatial systems that turn satellite data, spatial intelligence, and AI into solutions for real-world problems.**
 
 My work focuses on **Geospatial Software Development, Earth Observation, Remote Sensing, GeoAI, Climate Resilience, Disaster Risk, and Open Mapping.**
 
-> **Turning spatial data into intelligence. Turning intelligence into impact. 🌍**
+> **Turning spatial data into intelligence. Turning intelligence into impact.**
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
-🛰️ **Earth Observation Systems**
+**Earth Observation Systems**
 Satellite-based monitoring, change detection, environmental modelling, and spatial analytics.
 
-🤖 **GeoAI & Machine Learning**
+**GeoAI & Machine Learning**
 Deep learning and computer vision for satellite imagery, classification, prediction, and spatial intelligence.
 
-💻 **Geospatial Software**
+**Geospatial Software**
 GIS applications, APIs, automation pipelines, spatial databases, and interactive mapping platforms.
 
-🌊 **Climate & Disaster Intelligence**
+**Climate & Disaster Intelligence**
 Flood monitoring, hazard modelling, climate-risk assessment, and resilience planning.
 
-🗺️ **Open Geospatial Data**
+**Open Geospatial Data**
 OpenStreetMap, humanitarian mapping, community mapping, and geospatial data quality.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Geospatial & Earth Observation
 
@@ -67,13 +67,13 @@ OpenStreetMap, humanitarian mapping, community mapping, and geospatial data qual
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌍 GeoAfrica
+### GeoAfrica
 
 **Python-based geospatial toolkit**
 
@@ -85,7 +85,7 @@ Tools for spatial analysis, geospatial data processing, and reproducible workflo
 
 <td width="50%">
 
-### 🌊 Flood Intelligence
+### Flood Intelligence
 
 **EO-based flood monitoring & risk analysis**
 
@@ -99,7 +99,7 @@ Satellite-driven workflows for flood detection, exposure analysis, and disaster 
 <tr>
 <td width="50%">
 
-### 🌡️ Urban Heat Intelligence
+### Urban Heat Intelligence
 
 **GeoAI for urban climate**
 
@@ -111,7 +111,7 @@ Deep learning approaches for detecting and analysing Urban Heat Island patterns.
 
 <td width="50%">
 
-### 🏠 Smart Addressing
+### Smart Addressing
 
 **Street Naming & House Numbering**
 
@@ -125,19 +125,19 @@ A geospatial platform concept for improving location intelligence, addressing, a
 
 ---
 
-## 🌍 Research Interests
+## Research Interests
 
-* 🌊 Flood Risk & Hydrological Modelling
-* 🌡️ Urban Heat & Climate Analytics
-* 🛰️ Earth Observation & Remote Sensing
-* 🤖 GeoAI & Deep Learning
-* 🌍 Climate Resilience & Adaptation
-* 🗺️ OpenStreetMap & Humanitarian Mapping
-* 🏙️ Urban Geospatial Intelligence
+* Flood Risk & Hydrological Modelling
+* Urban Heat & Climate Analytics
+* Earth Observation & Remote Sensing
+* GeoAI & Deep Learning
+* Climate Resilience & Adaptation
+* OpenStreetMap & Humanitarian Mapping
+* Urban Geospatial Intelligence
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
 
@@ -155,17 +155,8 @@ A geospatial platform concept for improving location intelligence, addressing, a
 
 ---
 
-## 📈 Contribution Activity
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mercy14846&theme=github-compact&hide_border=true" width="100%"/>
-
-</p>
-
----
-
-## 🌐 Let's Connect
+## Let's Connect
 
 <p align="center">
 
@@ -189,13 +180,13 @@ A geospatial platform concept for improving location intelligence, addressing, a
 
 ---
 
-## 💡 Mission
+## Mission
 
 > **Building geospatial intelligence that helps people understand places, predict risks, and make better decisions.**
 
 <p align="center">
 
-### 🌍 GIS × 🛰️ Earth Observation × 🤖 AI × 💻 Software
+### GIS × Earth Observation × AI × Software
 
 **Let's build something geospatial.**
 
